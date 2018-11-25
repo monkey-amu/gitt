@@ -8,5 +8,11 @@ public class A {
         System.out.println("gitniubi");
         System.out.println("gitniubi");
         int a=10;
+        System.out.println("ggsimida");
+        System.out.println("ggsimida");
+        System.out.println("ggsimida");
+        System.out.println("ggsimida");
+        System.out.println("ggsimida");
+        System.out.println("ggsimida");
     }
 }
