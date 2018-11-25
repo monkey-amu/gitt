@@ -7,5 +7,6 @@ public class A {
         System.out.println("gitniubi");
         System.out.println("gitniubi");
         System.out.println("gitniubi");
+        int a=10;
     }
 }
